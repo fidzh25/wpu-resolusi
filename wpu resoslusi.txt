@@ -2,5 +2,5 @@ WPU RESOLUSI
 -coding minimal 2 jam sehari
 -minggu ini menguasai playlist github chanel web programing unpas
 -fokus full stack web developer
--membuat personal website sederhana menggunakan html, css dan PHP
 -bukan hanya personal web seperi portofolio sederhana, tetapi juga buat web e-commerce
+-Membuat aplikasi 
